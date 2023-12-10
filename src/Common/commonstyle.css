@@ -1,0 +1,23 @@
+@media screen and (max-width: 992px) {
+    .nav-link{
+     color: black;
+     text-align: center;
+     }
+     .nav-link:hover{
+        color: #0D6EFD;
+        background-color: bisque;
+     }
+ }
+
+ @media screen and (min-width: 992px) {
+    .nav-link{
+     color: white;
+     }
+ }
+
+/* footer */
+
+ .footer1{
+    background-color: #172337;
+    color: #ffffff;
+}
